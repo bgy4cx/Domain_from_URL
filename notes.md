@@ -19,9 +19,9 @@
 
 ### Guardinas
 
-- Input is string 🔴💿
-- Output is string 🔴💿
+- Input is string 🔴💿🟢💿♻️💿🍅✅
+- Output is string 🔴💿🟢💿♻️💿🍅✅
 
 ### Process
 
-- Parses out just the domain name and returns it 🔴💿
+- Parses out just the domain name and returns it 🔴💿🟢💿♻️💿🍅✅
